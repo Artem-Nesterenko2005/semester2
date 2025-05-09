@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniqueList", "UniqueList.csproj", "{7F62588D-C524-4834-B8DF-AC515E9FDB29}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestUniqueList", "..\TestUniqueList\TestUniqueList.csproj", "{F7FE101E-4540-4184-90CB-E916BF4C4613}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F62588D-C524-4834-B8DF-AC515E9FDB29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F62588D-C524-4834-B8DF-AC515E9FDB29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F62588D-C524-4834-B8DF-AC515E9FDB29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F62588D-C524-4834-B8DF-AC515E9FDB29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7FE101E-4540-4184-90CB-E916BF4C4613}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7FE101E-4540-4184-90CB-E916BF4C4613}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7FE101E-4540-4184-90CB-E916BF4C4613}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7FE101E-4540-4184-90CB-E916BF4C4613}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9FF3BFE1-6EF7-41CD-9A41-F117CF5E3FB4}
+	EndGlobalSection
+EndGlobal
